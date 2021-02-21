@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "493787635313",
+    "firebase_url": "https://um-278914.firebaseio.com",
+    "project_id": "unigram-278914",
+    "storage_bucket": "unigram-278914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493787635313:android:1efe37912321a10cd805d0",
+        "android_client_info": {
+          "package_name": "sk.unigram.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493787635313-73rcd58vjrcg741vsu56p6ib2dh32la3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVLEMLXdDGhMLxEG_R9Ycffgo8uECgDTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493787635313-73rcd58vjrcg741vsu56p6ib2dh32la3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

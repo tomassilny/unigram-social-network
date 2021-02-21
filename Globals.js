@@ -1,0 +1,1 @@
+global.showNavigationGlobal = true;
