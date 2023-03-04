@@ -1,7 +1,7 @@
 # Unigram - Student's Social Network App
 
-Social Network App for students - find and follow your friends, share images and your opinions. Chat with your friend or make a group. This app is very similar to Instagram.
-
+Social Network App for students - find and follow your friends, and share images and your opinions. Chat with your friend or make a group. This app is very similar to Instagram. 
+ 
 Technologies:
 - React Native
 - PHP (Laravel)
@@ -13,7 +13,7 @@ Features:
 - Fill out your profile, including the profile picture
 - Follow or unfollow users
 - Search for users
-- Send a message, create a group, call to an user (this message block has not been developed by me, we use Mesibo)
+- Send a message, create a group, call to a user (this message block has not been developed by me, we use Mesibo)
 - Post a status or an image
 - React to a post or comment using 4 different emojis
 - Share a post
